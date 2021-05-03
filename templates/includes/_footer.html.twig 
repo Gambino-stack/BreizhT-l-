@@ -1,0 +1,27 @@
+<div class="footer bg-primary">
+    <div class="container">
+        <div class="row justify-content-center mt-5 mb-5">
+            <div class="items col-12 col-md-4">
+                <img src="{{ asset('build/images/breizh.png') }}" width="200px" height="200px" alt="logo">
+            </div>
+            <div class="items col-12 col-md-4">
+                <span class="bt mr-2 mb-2">Breizh' Télésecretariat</span>
+                <p>Nathalie FEREC</p>
+                <p>5 Impasse moitié route</p>
+                <p> 29720 Plonéour-lanvern</p>
+                <p> 06 17 13 07 86</p>
+            </div>
+            <div class="items col-12 col-md-4 d-flex justify-content-center">
+                <img src="{{ asset('build/images/map.png') }}" width="300px" height="200px" alt="map">
+            </div>
+        </div>
+        <hr class="text-dark w100">
+        <div class="row mb-2">
+            <div class="col-12 d-flex justify-content-center">
+                <a href="#" class="text-dark">Mentions Légales - Made with <i class="fas fa-heart"></i> by️ Yohan
+                    Gambino ©</a>
+            </div>
+        </div>
+        <hr class="text-dark w100">
+    </div>
+</div>
